@@ -1,4 +1,3 @@
-O vídeo **"MySQL - Bancos de Dados, SGBDR e Grupos de Comandos - Curso de Bancos de Dados - 04"**, ministrado por Fábio da Bóson Treinamentos, apresenta os conceitos introdutórios e fundamentais sobre a teoria de bancos de dados relacionais, o papel da linguagem SQL e a estrutura do MySQL, estabelecendo a base conceitual do curso.
 
 ---
 
